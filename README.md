@@ -27,25 +27,25 @@ mais capacitados para lidar com problemas reais do mercado de trabalho. Dentre e
     <th>Github</th>
   </tr>
   <tr>
-    <td><img src="images/contributors/joao.png"/></td>
+    <td><img src="images/contributors/joao.jpeg"/></td>
     <td>João Pedro Silva de Carvalho</td>
     <td>180033743</td>
     <td><a href="https://github.com/jps12">jps12</a></td>
   </tr>  
   <tr>
-    <td><img src="images/contributors/luiza.png"/></td>
+    <td><img src="images/contributors/luiza.jpg"/></td>
     <td>Luiza Carneiro Cezário</td>
     <td>150041560</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td><img src="images/contributors/maicon.png"/></td>
+    <td><img src="images/contributors/maicon.jpg"/></td>
     <td>Maicon Lucas Mares de Souza</td>
     <td>180023411</td>
     <td><a href="https://github.com/MaiconMares">MaiconMares</a></td>
   </tr>
   <tr>
-    <td><img src="images/contributors/renato.png"/></td>
+    <td><img src="images/contributors/renato.jpeg"/></td>
     <td>Renato Britto Araujo</td>
     <td>180027239</td>
     <td><a href="https://github.com/RenatoBrittoAraujo">RenatoBrittoAraujo</a></td>

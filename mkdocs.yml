@@ -10,7 +10,9 @@ nav:
   - Mais informações:
     - Motivações: motivacao.md
     - Planejamento do projeto: planejamento.md
-    - Sites avaliados: lista-sites.md
+    - Sites avaliados: 
+      - INPE: inpe.md
+      - Globo.com: globo.md
     - Ferramentas: ferramentas.md
     - Processo de design: processo-design.md
     - Cronograma de atividades: cronograma.md

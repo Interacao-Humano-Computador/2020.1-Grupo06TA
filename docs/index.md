@@ -60,4 +60,10 @@ mais capacitados para lidar com problemas reais do mercado de trabalho. Dentre e
     <th>Descrição</th>
     <th>Autor</th>
   </tr>
+  <tr>
+    <td>20/09</td>
+    <td>1.0</td>
+    <td>Criação da estrutura geral de documentação do projeto</td>
+    <td>Maicon Mares</td>
+  </tr>
 </table>

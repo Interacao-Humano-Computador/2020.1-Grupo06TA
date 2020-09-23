@@ -18,3 +18,19 @@ Foi um método proposto para encontrar problemas de usabilidade à baixos custos
 
 ### Percurso cognitivo:
 É um processo de avaliação que é guiado pelas tarefas de usuário. Através dela o avaliador julga principalmente a facilidade de aprendizagem ao realizar cada tarefa do sistema seguindo principios da engenharia cognitiva. Ao achar erros o avaiador deve reportar relantando qual o problemas e apontar possíveis soluções.
+
+# Versionamento
+<table>
+    <tr>
+        <th>Data</th>
+        <th>Versão</th>
+        <th>Descrição</th>
+        <th>Autor</th>
+    </tr>
+    <tr>
+        <td>21/09/2020</td>
+        <td>1.0</td>
+        <td>Criação do documento</td>
+        <td>João Pedro Silva de Carvalho</td>
+    </tr>
+</table>

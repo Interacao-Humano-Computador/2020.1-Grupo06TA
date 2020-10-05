@@ -48,3 +48,9 @@
     <img align="left" width="100px" height="100px" src="https://banner2.cleanpng.com/20190621/xra/kisspng-telegram-portable-network-graphics-scalable-vector-hd-telegram-telegram-logo-png-free-unlimited-d-5d0d894e836ee2.1879891415611682065384.jpg"/>
     É um serviço de mensagens suportado por diversas plataformas, de uso simplificado e baseado em nuvem. Utilizamos esse para comunicações rápidas, como decisões sobre horário de reuniões.
 </p>
+
+<h3>8.Diagrams</h3>
+<p>
+    <img align="left" width="100px" height="100px" src="https://scontent.fbsb8-1.fna.fbcdn.net/v/t31.0-8/p960x960/22256591_1680464958644700_5214290316315916391_o.png?_nc_cat=108&_nc_sid=85a577&_nc_ohc=fRgG-1uFO4oAX-ZMoFh&_nc_ht=scontent.fbsb8-1.fna&oh=f51173d4f3da22bdb1ca9899a0cda06e&oe=5F9E7518"/>
+    É uma aplicação para desenvolvimento de diagramas disponível para uso web e para uso como aplicativo. Essa ferramenta será usada para desenvolver os diagramas necessários.
+</p>

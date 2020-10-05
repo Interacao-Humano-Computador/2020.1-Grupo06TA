@@ -21,3 +21,19 @@ Avaliação do protótipo de alta fidelidade                                    
 **Entrega do relato dos resultados da avaliação do protótipo de alta fidelidade**                  | 22/11/2020
 Revisão do projeto para a apresentação final                                                    | 27/11/2020
 **Apresentação final do projeto**                                                                   | 01/12/2020
+
+# Versionamento
+<table>
+    <tr>
+        <th>Data</th>
+        <th>Versão</th>
+        <th>Descrição</th>
+        <th>Autor</th>
+    </tr>
+    <tr>
+        <td>21/09/2020</td>
+        <td>1.0</td>
+        <td>Criação do documento</td>
+        <td>João Pedro Silva de Carvalho</td>
+    </tr>
+</table>

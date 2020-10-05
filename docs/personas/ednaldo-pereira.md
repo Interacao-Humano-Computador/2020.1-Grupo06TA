@@ -13,3 +13,19 @@ Objetivos pessoais:
 Objetivos práticos:
 - Por ser pouco literado em tecnologia, não se esforça para aprender a usar software complicado e têm forte preferência por uso simples.
 - Preferência por ferramentas que permitam bastante exploração dos dados.
+
+<h2>Versionamento</h2>
+<table>
+	<tr>
+		<th>Data</th>
+	    <th>Versão</th>
+	    <th>Descrição</th>
+	    <th>Autor</th>
+	</tr>
+	<tr>
+		<td>05/10</td>
+	    <td>1.0</td>
+	    <td>Criando persona primária</td>
+	    <td>Renato Britto Araujo</td>
+	</tr>
+</table>

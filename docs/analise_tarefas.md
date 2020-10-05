@@ -20,4 +20,4 @@ Representa uma relação de seleção, um 'ou exclusivo'. (1 / 2) Significa que 
 ### 1.2. Motivação:
 É um método bem simples de se implementar e frequentemente utilizado. Além disso esse método consegue mostrar muito bem como as tarefas se relacionam entre si e quais as consequências de cada uma, quais são mais importantes, entre outras. Pode ajudar também a definir quais são as partes mais críticas da ações a serem executadas.
 ## 2. Analise hierárquica das tarefas no website:
-![HTA](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/DOC02_Analise_tarefas/images/diagramas/HTA.jpg)
+![HTA](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/diagramas/HTA.jpg?raw=true)

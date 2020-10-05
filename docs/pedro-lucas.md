@@ -1,5 +1,5 @@
 # Pedro Lucas:
-![Pedro Lucas](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/pedro-lucas-foto.jpg?raw=true)
+![Pedro Lucas](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/pedro-lucas-foto.jpeg?raw=true)
 Pedro lucas é um jovem de cerca de 21 anos, trabalha como gerente comercial e tem renda mensal de aproximadamente 2 salários mínimos. Por mais que seja jovem ele ja tem a sua familia e por isso e pelo trabalho ele é bastante ocupado. Ele gosta de viajar de avião frequentemente mas prefere que as coisas sejam rápidas, ele não gosta de gastar tempo pesquisando o melhor preço e gosta de sair com a passagem na mão. ele também não gosta de planejar as suas viagens e por isso acaba preferindo agências de turismo. Ele será considerado como uma antipersona para fins do projeto, pois ele prefere lojas físicas.
 
 ## Obejtivos pessoais:

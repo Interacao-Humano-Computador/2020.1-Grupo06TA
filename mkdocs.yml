@@ -7,9 +7,13 @@ theme:
 
 nav:
   - Sobre o projeto: index.md
-  - Analise de tarefas: analise_tarefas.md
+  - Analise de tarefas: analise-tarefas.md
   - Ferramentas: ferramentas.md
   - Motivações: motivacao.md
+  - Personas: 
+    - Dyana Silva: dyana-silva.md
+    - Ednaldo Pereira: ednaldo-pereira.md
+    - Pedro Lucas: pedro-lucas.md
   - Planejamento do projeto: 
     - Cronograma: cronograma.md
     - Metodologia: metodologia.md

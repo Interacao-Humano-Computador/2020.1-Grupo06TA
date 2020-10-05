@@ -10,3 +10,19 @@ Pedro lucas é um jovem de cerca de 21 anos, trabalha como gerente comercial e t
 ## Objetivos práticos:
 * Não perder tempo desnecessáriamente.
 * Ter um bom roteiro sem participar ativamente das escolhas dos destinos
+
+
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Versão</th>
+    <th>Descrição</th>
+    <th>Autor</th>
+  </tr>
+  <tr>
+    <td>05/10</td>
+    <td>1.0</td>
+    <td>Criação da antipersona</td>
+    <td>João Pedro Silva de Carvalho</td>
+  </tr>
+</table>

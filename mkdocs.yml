@@ -17,8 +17,9 @@ nav:
   - Planejamento do projeto: 
     - Cronograma: cronograma.md
     - Metodologia: metodologia.md
-  - Politicas: politicas.md
+  - Políticas: politicas.md
   - Processo de design: processo-design.md
+  - Princípios gerais do projeto: principios-gerais.md
   - Sites avaliados: 
     - INPE: inpe.md
     - Globo.com: globo.md

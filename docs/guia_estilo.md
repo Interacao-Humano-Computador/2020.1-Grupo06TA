@@ -18,34 +18,34 @@ O usuário na maioria das vezes acessará o site de casa. Boa parte das vezes ta
 ### Disposição espacial e do grid
 A disposição é feita em grids de três ou uma seção principal e uma secundária.
 Exemplo de grid com 3 partes iguais:
-![image1](images/guia_estilo/image11.png)
+![image1](../images/guia_estilo/image11.png)
 Exemplo de grid com uma parte principal e outra secundária:
-![image2](images/guia_estilo/image9.png)
+![image2](../images/guia_estilo/image9.png)
 Outro exemplo do anterior:
-![image3](images/guia_estilo/image3.png)
+![image3](../images/guia_estilo/image3.png)
 ### Janelas
 Todo o conteúdo do site está centralizado de forma a permitir visualização mobile tanto quanto web, de forma a deixar, em 16:9, 40% da tela disponível horizontalmente.
-![image4](images/guia_estilo/image10.png)
+![image4](../images/guia_estilo/image10.png)
 ### Tipografia
 A fonte utilizada é **Lucida**, sendo variações dessa permitidas em diferentes contexto. Abaixo temos um exemplo de múltiplas variações da Lucida sendo usadas:
-![image5](images/guia_estilo/image13.png)
+![image5](../images/guia_estilo/image13.png)
 Temos nesse exemplo Lucida Grande e Lucida Sans, uma com bold e outra sem bold, de tamanho 14px.
 ### Simbolos não tipográficos
 Simbolos são simples mas não minimalistas. Possuem cores e são facilmente reconhecíveis. Usam formato quadrado, background transparente e possuem, em sua grande maioria, o tamanho padronizado de 25x25 pixels.
 ### Cores
 Faz uso de degrades, a cor tema da plataforma é verde azulado. As cores mais usadas são:
-* #A7CEDB ![image6](images/guia_estilo/image6.png)
-* #1BB3C0 ![image7](images/guia_estilo/image8.png)
-* #E1EFF4 ![image8](images/guia_estilo/image4.png)
+* #A7CEDB ![image6](../images/guia_estilo/image6.png)
+* #1BB3C0 ![image7](../images/guia_estilo/image8.png)
+* #E1EFF4 ![image8](../images/guia_estilo/image4.png)
 Degrades são encorajados, como aqui:
-![image9](images/guia_estilo/image7.png)
+![image9](../images/guia_estilo/image7.png)
 Ou aqui:
-![image10](images/guia_estilo/image5.png)
-Quanto às fontes geralmente usa-se #FFFFFF (branco puro) ou #378787 ![image11](images/guia_estilo/image12.png)
+![image10](../images/guia_estilo/image5.png)
+Quanto às fontes geralmente usa-se #FFFFFF (branco puro) ou #378787 ![image11](../images/guia_estilo/image12.png)
 ### Animações 
 As únicas animações utilizadas na plataforma são simples e aplicam função slide horizontal. Um exemplo seria esta:
-![image12](images/guia_estilo/image1.png)
-![image13](images/guia_estilo/image2.png)
+![image12](../images/guia_estilo/image1.png)
+![image13](../images/guia_estilo/image2.png)
 O painel da esquerda desliza e muda para o painel na direita.
 ## Elementos de interação 
 ### Estilos de interação 
@@ -56,20 +56,20 @@ Não recomenda-se uso de atalhos para não complicar o aprendizado do uso, mas s
 ## Elementos de ação 
 ### Preenchimento de campos 
 Quando possivel abilitar o preenchimento automático ou alguma ferramenta que ajude como nos campos mostrados abaixo:
-![image14](images/guia_estilo/image9.png)
+![image14](../images/guia_estilo/image9.png)
 Em outros casos o usuário pode preencher sem assistência, mas que ainda siga esse padrão:
-![image15](images/guia_estilo/image14.png)
-![image16](images/guia_estilo/image20.png)
-![image17](images/guia_estilo/image19.png)
+![image15](../images/guia_estilo/image14.png)
+![image16](../images/guia_estilo/image20.png)
+![image17](../images/guia_estilo/image19.png)
 ### Seleção
 Há dois tipos disponíveis para uso na aplicação:
 * Para seleção de intervalo:
-![image18](images/guia_estilo/image16.png)
+![image18](../images/guia_estilo/image16.png)
 * Para Seleção unica
-![image19](images/guia_estilo/image17.png)
+![image19](../images/guia_estilo/image17.png)
 ### Ativação 
 Caso o usuário precise apenas decidir se ativa ou desativa o seguinte padrão deve ser seguido:
-![image20](images/guia_estilo/image15.png)
+![image20](../images/guia_estilo/image15.png)
 ## Vocabulário e padrões 
 ### Terminologia 
 A terminologia a ser usada tem que ser a mais simples possível para facilitar o uso. Entretanto dado a especifidade de algumas situações, como os aeroportos, ou nomeação das tarifas, usa-se terminologia mais específica, como por exemplo os códigos de aeroportos (BSB é o de Brasília).
@@ -77,8 +77,8 @@ Algumas abreviações podem ocorrer desde que sejam amplamente conhecidas, (por 
 ### Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 É recomendado avisar o usuário sobre o que acontece no sistema em tempo real para que o usuário não pense que a aplicação travou ou algo do gênero. 
 Exemplos de avisos:
-![image21](images/guia_estilo/image20.png)
-![image22](images/guia_estilo/image18.png)
+![image21](../images/guia_estilo/image20.png)
+![image22](../images/guia_estilo/image18.png)
 
 
 ## Versionamento

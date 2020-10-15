@@ -33,12 +33,6 @@ mais capacitados para lidar com problemas reais do mercado de trabalho. Dentre e
     <td><a href="https://github.com/jps12">jps12</a></td>
   </tr>  
   <tr>
-    <td><img width="180px" height="180px" src="https://github.com/Interacao-Humano-Computador/2020.1-Grupo06TA/raw/develop/images/contributors/luiza.jpg"/></td>
-    <td>Luiza Carneiro Cezário</td>
-    <td>150041560</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
     <td><img width="180px" height="180px" src="https://github.com/Interacao-Humano-Computador/2020.1-Grupo06TA/raw/develop/images/contributors/maicon.jpg"/></td>
     <td>Maicon Lucas Mares de Souza</td>
     <td>180023411</td>
@@ -64,6 +58,12 @@ mais capacitados para lidar com problemas reais do mercado de trabalho. Dentre e
     <td>20/09</td>
     <td>1.0</td>
     <td>Criação da estrutura geral de documentação do projeto</td>
+    <td>Maicon Mares</td>
+  </tr>
+  <tr>
+    <td>14/10</td>
+    <td>1.1</td>
+    <td>Atualizando lista de colaboradores</td>
     <td>Maicon Mares</td>
   </tr>
 </table>

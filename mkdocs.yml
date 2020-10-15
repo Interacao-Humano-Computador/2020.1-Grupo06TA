@@ -1,20 +1,30 @@
 site_name: IHC - Zupper
 
-repo_url: https://github.com/Interacao-Humano-Computador/2020.1-Grupo06TA
+repo_url: https://github.com/Interacao-Humano-Computador/2020.1-Zupper
 
 theme: 
   name: material
 
 nav:
   - Sobre o projeto: index.md
-  - Mais informações:
-    - Motivações: motivacao.md
-    - Planejamento do projeto: 
-      - Metodologia: metodologia.md
-      - Cronograma: cronograma.md
-    - Sites avaliados: 
-      - INPE: inpe.md
-      - Globo.com: globo.md
-    - Ferramentas: ferramentas.md
-    - Processo de design: processo-design.md
-    - Politicas: politicas.md
+  - Analise de tarefas: analise-tarefas.md
+  - Apresentações:
+    - Apresentação 1: apresentacao1.md
+    - Apresentação 2: apresentacao2.md
+  - Ferramentas: ferramentas.md
+  - Motivações: motivacao.md
+  - Metas de Usabilidade: metas-de-usabilidade.md
+  - Perfil de Usuário: perfil-de-usuario.md
+  - Personas: 
+    - Dyana Silva: dyana-silva.md
+    - Ednaldo Pereira: ednaldo-pereira.md
+    - Pedro Lucas: pedro-lucas.md
+  - Planejamento do projeto: 
+    - Cronograma: cronograma.md
+    - Metodologia: metodologia.md
+  - Políticas: politicas.md
+  - Processo de design: processo-design.md
+  - Princípios gerais do projeto: principios-gerais.md
+  - Sites avaliados: 
+    - INPE: inpe.md
+    - Hoteis.com: hoteis.md

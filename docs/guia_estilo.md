@@ -85,3 +85,4 @@ Exemplos de avisos:
 | Data | Autor | Versão | 
 | -----|------- |----- |
 | 13/10/2020 | Renato Britto Araújo | 1.0 |
+| 14/10¹2020 | João Pedro Silva de Carvalho | 1.1 |

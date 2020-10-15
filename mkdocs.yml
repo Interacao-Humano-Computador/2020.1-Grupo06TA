@@ -8,6 +8,9 @@ theme:
 nav:
   - Sobre o projeto: index.md
   - Analise de tarefas: analise-tarefas.md
+  - Apresentações:
+    - Apresentação 1: apresentacao1.md
+    - Apresentação 2: apresentacao2.md
   - Ferramentas: ferramentas.md
   - Motivações: motivacao.md
   - Personas: 

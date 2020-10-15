@@ -82,7 +82,7 @@ Exemplos de avisos:
 
 
 ## Versionamento
-| Data | Autor | Versão | 
-| -----|------- |----- |
-| 13/10/2020 | Renato Britto Araújo | 1.0 |
-| 14/10¹2020 | João Pedro Silva de Carvalho | 1.1 |
+| Data | Versão | Descrição | Autor | 
+| -----|------- |----- |----------- |
+| 13/10/2020 | 1.0 | Primeira parte do documento | Renato Britto Araújo |
+| 14/10¹2020 | 1.1 | Finalisando o documento |João Pedro Silva de Carvalho |

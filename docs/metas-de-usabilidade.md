@@ -30,6 +30,8 @@ Depois de ter aprendido a utilizar o sistema deve ser possível lembrar de como 
 
 ## Referências
 
+PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. Design de Interação: Além da Interação humano-computador. Editora Bookman, São Paulo: 2005. 
+
 <table>
   <tr>
     <th>Data</th>
@@ -41,6 +43,12 @@ Depois de ter aprendido a utilizar o sistema deve ser possível lembrar de como 
     <td>14/10</td>
     <td>1.0</td>
     <td>Criação do documento de Metas de Usabilidade</td>
+    <td>Maicon Mares</td>
+  </tr>
+  <tr>
+    <td>15/10</td>
+    <td>1.1</td>
+    <td>Adicionando Referências.</td>
     <td>Maicon Mares</td>
   </tr>
 </table>

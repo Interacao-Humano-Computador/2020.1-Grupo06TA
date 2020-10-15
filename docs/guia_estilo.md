@@ -13,6 +13,7 @@ O guia deve ser utilizado como recomendações. Caso o guia não se adapte ao pr
 No parágrafo anterior, foi dito que o guia não necessariamente vai se adaptar a todos os possíveis problemas encontrados e, por isso, quando um desenvolvedor necessitar sair do que foi recomendado pelo guia e julgar apropriado, este deve alterar o guia de forma a introduzir a nova categoria de mudanças que é necessária.
 ## Resultados da análise:
 ### Descrição do ambiente de trabalho do usuário
+O usuário na maioria das vezes acessará o site de casa. Boa parte das vezes também em lugares gerais, já que alguns gostam de pesquisar frequentemente. Como ja citado no documento de metas de usabilidade, espera-se uma aplicação simples de aprender e eficiente, pois dado a gama de possíveis usuários e outra gama de ambientes, a aplicação não pode demandar um tempo desnecessário do usuário.
 ## Elementos da interface
 ### Disposição espacial e do grid
 A disposição é feita em grids de três ou uma seção principal e uma secundária.
@@ -48,16 +49,37 @@ As únicas animações utilizadas na plataforma são simples e aplicam função 
 O painel da esquerda desliza e muda para o painel na direita.
 ## Elementos de interação 
 ### Estilos de interação 
-### Seleção de um estilo 
+A aplicação demanda uma interação simples, então recomenda-se alcançar o menor numero de cliques para realizar cada tarefa, e o menor numero de janelas possíveis. 
+Interações demoradas são necessárias para preenchimento dos campos de identificação.
 ### Aceleradores (teclas de atalho) 
+Não recomenda-se uso de atalhos para não complicar o aprendizado do uso, mas se usar, deixar claro quais são os atalhos.
 ## Elementos de ação 
 ### Preenchimento de campos 
+Quando possivel abilitar o preenchimento automático ou alguma ferramenta que ajude como nos campos mostrados abaixo:
+![image14](images/guia_estilo/image9.png)
+Em outros casos o usuário pode preencher sem assistência, mas que ainda siga esse padrão:
+![image15](images/guia_estilo/image14.png)
+![image16](images/guia_estilo/image20.png)
+![image17](images/guia_estilo/image19.png)
 ### Seleção
+Há dois tipos disponíveis para uso na aplicação:
+* Para seleção de intervalo:
+![image18](images/guia_estilo/image16.png)
+* Para Seleção unica
+![image19](images/guia_estilo/image17.png)
 ### Ativação 
+Caso o usuário precise apenas decidir se ativa ou desativa o seguinte padrão deve ser seguido:
+![image20](images/guia_estilo/image15.png)
 ## Vocabulário e padrões 
 ### Terminologia 
-### Tipos de tela (para tarefas comuns) 
+A terminologia a ser usada tem que ser a mais simples possível para facilitar o uso. Entretanto dado a especifidade de algumas situações, como os aeroportos, ou nomeação das tarifas, usa-se terminologia mais específica, como por exemplo os códigos de aeroportos (BSB é o de Brasília).
+Algumas abreviações podem ocorrer desde que sejam amplamente conhecidas, (por exemplo 'Cia' abreviação de Companhia).
 ### Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
+É recomendado avisar o usuário sobre o que acontece no sistema em tempo real para que o usuário não pense que a aplicação travou ou algo do gênero. 
+Exemplos de avisos:
+![image21](images/guia_estilo/image20.png)
+![image22](images/guia_estilo/image18.png)
+
 
 ## Versionamento
 | Data | Autor | Versão | 

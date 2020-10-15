@@ -77,7 +77,7 @@ Algumas abreviações podem ocorrer desde que sejam amplamente conhecidas, (por 
 ### Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 É recomendado avisar o usuário sobre o que acontece no sistema em tempo real para que o usuário não pense que a aplicação travou ou algo do gênero. 
 Exemplos de avisos:
-![image21](../images/guia_estilo/image20.png)
+![image18](../images/guia_estilo/image20.png)
 ![image22](../images/guia_estilo/image21.png)
 
 

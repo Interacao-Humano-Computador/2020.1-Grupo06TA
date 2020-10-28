@@ -8,10 +8,12 @@ Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o
 
 Ao verificar a avaliação de tarefas, devem ser feitas perguntas que ajudam a determinar se ela é coerente com o que o usuário espera do sistema, bem como se erros mapeados, possíveis critícas, melhorias ou qualquer outro ponto interessante que o entrevistador notar. 
 
-## Quem pode participar
+## Participantes
 
 Qualquer participante deve, necessariamente, se encaixar no [perfil de usuário](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/master/docs/perfil-de-usuario.md) que já foi previamente
 estabelecido como os tipos de usuário que se espera atingir com o produto. Qualquer candidato que esteja dentro de em algum desses perfis estão aptos de serem escolhidos para a avaliação. Deve ser realizado algum processo onde é possível contatar algum cliente e na data e horario acordado para a condução do experimento, começe a realizar o questionário à seguir levando em conta que não é necessária completa rigidez e sim, a busca de erros quanto ao produto imaginado de forma a validar as ideias vigentes quanto ao projeto, os procedimentos podem ser modificados a livre vontade do avaliador.
+
+Os participantes em questão serão os que responderem aos nossos pedidos de participação, com possíveis incentivos. Deve fazer parte do grupo estabelecido por condizerem com o perfil de usuário e, portanto, condizente com quem estamos avaliando o uso do Zupper.
 
 ## Condução 
 

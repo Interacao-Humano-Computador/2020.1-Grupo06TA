@@ -7,11 +7,14 @@ theme:
 
 nav:
   - Sobre o projeto: index.md
-  - Analise de tarefas: analise-tarefas.md
+  - Análise de Tarefas e Avaliação: 
+    - Análise de Tarefas: analise-tarefas.md
+    - Planejamento da avaliação: planejamento-analise-de-tarefas.md
   - Apresentações:
     - Apresentação 1: apresentacao1.md
     - Apresentação 2: apresentacao2.md
     - Apresentação 3: apresentacao3.md
+    - Apresentação 4: apresentacao4.md
   - Ferramentas: ferramentas.md
   - Guia de estilo: guia_estilo.md
   - Motivações: motivacao.md
@@ -30,4 +33,6 @@ nav:
   - Sites avaliados: 
     - INPE: inpe.md
     - Hoteis.com: hoteis.md
-  - Storyboard: storyboard.md
+  - Storyboard e Avaliação: 
+    - Storyboard: storyboard.md
+    - Planejamento da avaliação: planejamento-storyboard.md

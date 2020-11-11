@@ -20,3 +20,10 @@ Para coletar os dados da avaliação foi criado o seguinte [questionário](https
 
 ## 3. Interpretação:
 ## 4. Relato dos resultados:
+
+nota: A interpretação e relato dos resultados estarão disponíveis após a realização da avaliação.
+
+## Versionamento
+| Data | Versão | Autor | Descrição |
+|------|--------|-------|-----------|
+| 11/11/2020 | 1.0 | João Pedro Silva de Carvalho | Planejamento da avaliação do protótipo de papel |

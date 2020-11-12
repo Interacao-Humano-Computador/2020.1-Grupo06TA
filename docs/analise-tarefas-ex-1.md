@@ -21,9 +21,9 @@ A entrevistada ficou bastante confusa quanto ao uso do site e demorou até que a
 
 <table>
   <tr>
-    <td>28/11</td>
+    <td>12/11</td>
     <td>1.0</td>
-    <td>Criação do documento de Planejamento de avaliação de análise de tarefas.</td>
+    <td>Criação do documento de análise de tarefas.</td>
     <td>Renato Britto Araujo</td>
   </tr>
 </table>

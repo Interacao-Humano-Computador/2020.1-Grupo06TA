@@ -23,7 +23,7 @@
 </ol>
 
 ### Persona realizando a tarefa
-<img src="./coleta-dados.gif"/>
+<img src="../images/coleta-dados.gif"/>
 <span>Obs.: a velocidade do vídeo foi aumentada.</span>
 
 ## Interpretação e Consolidação dos resultados
@@ -36,6 +36,8 @@
 ## Relato do resultados
 <p>A avaliação teve como <strong>objetivo</strong> verificar as metas de usabilidade e princípios gerais definidos no início do projeto. O <strong>escopo</strong> da avaliação é constituído pela tarefa de compra de passagem áerea, não sendo escolhidas outras devido ao escopo reduzido do site. As outras tarefas são tarefas comuns presentes na maioria dos websites e que não refletem o propósito do nosso sítio, por exemplo login, criar conta, etc.</p>
 <p>O Storyboard foi validado e está de acordo com o sistema, indicando um cenário real. O usuário realizou a tarefa de maneira aproximada a esperada pelo avaliador. Entretanto, enfrentou os problemas citados anteriormente.</p>
+
+## Versionamento
 
 <table>
   <tr>

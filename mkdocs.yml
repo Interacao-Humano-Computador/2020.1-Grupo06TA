@@ -29,10 +29,13 @@ nav:
     - Metodologia: metodologia.md
   - Políticas: politicas.md
   - Processo de design: processo-design.md
+  - Protótipo de Baixa Fidelidade e Avaliação:
+    - Planejamento da Avaliação: planejamento-prototipo-papel.md
   - Princípios gerais do projeto: principios-gerais.md
   - Sites avaliados: 
     - INPE: inpe.md
     - Hoteis.com: hoteis.md
   - Storyboard e Avaliação: 
     - Storyboard: storyboard.md
-    - Planejamento da avaliação: planejamento-storyboard.md
+    - Planejamento da Avaliação: planejamento-storyboard.md
+    - Avaliação do Storyboard: avaliacao-storyboard.md

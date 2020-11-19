@@ -7,6 +7,9 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/juniopereirab/IHC-2019.2---OLX/master/img/design/mayhew/diagrama_mayhew.png?token=AK65XNEEAIZD5J67N7LSBEK5QLTGG">
 </p>
+<span>Figura 1: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.
+</span>
+
 <h3>Introdução</h3>
 <p>
     &emsp;&emsp;Propor e desenvolver designs é difícil e dinâmico, diversas variáveis estão envolvidas. Para gerenciar e garantir melhor aproveitamento do processo de design ciclos de vida foram criados. Especialmente, no campo da Usabilidade foi proposto o Ciclo de Mayhew divido em 3 etapas, elas são: análise de requisitos, design/avaliação/desenvolvimento e instalação.

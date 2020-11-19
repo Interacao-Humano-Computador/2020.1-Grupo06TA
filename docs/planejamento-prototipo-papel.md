@@ -14,6 +14,10 @@ Para a avaliação usaremos o método de avaliação por investigação pois é 
 
 O perfil dos participantes a serem escolhidos serão próximos aos perfis definidos nas personas escolhidas. Os participantes terão que simular estar em um sistema real e interagir mesmo que de modo bem simples.
 
+### 1.1. Protótipo:
+
+![Prototipo de papel](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/docs/prototipo-papel.png)
+
 ## 2. Coleta de dados:
 
 Para coletar os dados da avaliação foi criado o seguinte [questionário](https://forms.gle/bqkciWrtMY2cD1bEA) que será usado pelos avaliadores para guiar o processo e anotar possiveis problemas encontrados. Dado a situação inusitada de pandemia, o prototipo será apresentado aos usuários por meio de uma video chamada e o compartilhamento de tela. Caberá ao usuário dizer cada passo que ele realizará e ao avaliador caberá o papel do 'computador' e retornará respostas ficticias baseadas nas respostas esperadas do sistema. Com isso o avaliador anotará se o usuário atingiu o objetivo e registrar possíveis problemas.

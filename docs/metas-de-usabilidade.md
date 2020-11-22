@@ -22,11 +22,13 @@ Depois de ter aprendido a utilizar o sistema deve ser possível lembrar de como 
 ## Metas a serem alcançadas
 - Eficiência: a resposta do sítio a buscas por opções de vôos deve ocorrer de forma ágil, não demorando mais de 1s. Opções que não funcionam, como a limpeza de filtros de busca, e não fazem sentido, como ser possível realizar quantos vôos em sequência quiser, devem ser consertadas/ajustadas.
 
-- Segurança: deve ser possível ao usuário criar uma conta com seu respectivo CPF, mesmo após alguma falha no sistema.
+- Segurança: algumas vezes ao tentar criar uma conta, foi identificado que ocorre uma falha ao enviar o email com link de ativação para o email do usuário. Após tentar novamente criar conta com o mesmo CPF o sistema diz que aquele CPF já está sendo utilizado. Portanto, deve ser possível ao usuário criar uma conta com seu respectivo CPF, mesmo após alguma falha no sistema. A falha pode ser vista abaixo:
+![image1](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/safety1.png?raw=true)
+![image2](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/safety2.png?raw=true)
 
-- Utilidade: a possibilidade de escolher assentos em uma compra deve ser fornecida durante a compra ao usuário.
+- Utilidade: a possibilidade de escolher assentos é uma ação frequente em uma compra e deve ser fornecida durante a compra ao usuário, atualmente se encontra em um passo separado.
 
-- Capacidade de aprendizagem: o sistema deve fornecer recursos de ajuda a usuários inexperientes e que possuem dificuldades de uso de tecnologia, como pessoas de terceira idade, por exemplo.
+- Capacidade de aprendizagem: o sistema possui ícones intuitivos e passos bem definidos, entretanto o excesso de informações prejudica a aprendizagem.
 
 ## Referências
 

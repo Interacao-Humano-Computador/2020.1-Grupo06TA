@@ -23,7 +23,7 @@
 </ol>
 
 ### Persona realizando a tarefa
-<img src="../images/coleta-dados.gif"/>
+<img src="https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/coleta-dados.gif?raw=true"/>
 <span>Obs.: a velocidade do vídeo foi aumentada.</span>
 
 ## Interpretação e Consolidação dos resultados

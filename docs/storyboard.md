@@ -9,7 +9,7 @@ usuário tem da aplicação.
 <p>Utilizando o site <a href="https://www.zupper.com.br">Zupper</a> identificamos um fluxo principal de interação que envolve a compra de passagens aéreas. O processo de compra é o mesmo para todos usuários, independente de idade ou gênero. Então uma versão com melhorias será deixada para uma próxima iteração do projeto.
 </p>
 <br>
-<img src="https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/DOC05_storyboard_projeto/images/storyboard/Storyboard.png?raw=true">
+<img src="https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/storyboard/Storyboard.png?raw=true">
 <br>
 
 ### Avaliação SB01

@@ -7,6 +7,38 @@ theme:
 
 nav:
   - Sobre o projeto: index.md
+  - Planejamento do projeto:
+    - Motivações: motivacao.md
+    - Cronograma: cronograma.md
+    - Metodologia: metodologia.md
+    - Processo de design: processo-design.md
+    - Sites avaliados: 
+      - INPE: inpe.md
+      - Hoteis.com: hoteis.md
+    - Ferramentas: ferramentas.md
+    - Políticas: politicas.md
+  - Perfil do Usuário:
+    - Perfil de Usuário: perfil-de-usuario.md
+    - Personas: 
+      - Dyana Silva: dyana-silva.md
+      - Ednaldo Pereira: ednaldo-pereira.md
+      - Pedro Lucas: pedro-lucas.md
+  - Análise de Requisitos:
+    - Princípios e diretrizes do projeto: principios-gerais.md
+    - Metas de Usabilidade: metas-de-usabilidade.md
+    - Guia de estilo: guia_estilo.md
+  - Design, avaliação e desenvolvimento: 
+    - Nível 1: 
+      - Storyboard: storyboard.md
+      - Análise de tarefas: analise-tarefas.md
+      - Planejamento da avaliação: 
+        - Planejamento Storyboard: planejamento-storyboard.md
+        - Planejamento Análise de Tarefas: planejamento-analise-de-tarefas.md
+      - Avaliação e relato dos resultados: 
+        - Storyboard: avaliacao-storyboard.md
+        - Análise de Tarefas: analise-tarefas-ex-1.md
+    - Nível 2:
+      - Planejamento da avaliação: planejamento-prototipo-papel.md
   - Análise de Tarefas e Avaliação: 
     - Análise de Tarefas: analise-tarefas.md
     - Planejamento da avaliação: planejamento-analise-de-tarefas.md
@@ -17,27 +49,4 @@ nav:
     - Apresentação 3: apresentacao3.md
     - Apresentação 4: apresentacao4.md
     - Apresentação 5: apresentacao5.md
-  - Ferramentas: ferramentas.md
-  - Guia de estilo: guia_estilo.md
-  - Motivações: motivacao.md
-  - Metas de Usabilidade: metas-de-usabilidade.md
-  - Perfil de Usuário: perfil-de-usuario.md
-  - Personas: 
-    - Dyana Silva: dyana-silva.md
-    - Ednaldo Pereira: ednaldo-pereira.md
-    - Pedro Lucas: pedro-lucas.md
-  - Planejamento do projeto: 
-    - Cronograma: cronograma.md
-    - Metodologia: metodologia.md
-  - Políticas: politicas.md
-  - Processo de design: processo-design.md
-  - Protótipo de Baixa Fidelidade e Avaliação:
-    - Planejamento da Avaliação: planejamento-prototipo-papel.md
-  - Princípios gerais do projeto: principios-gerais.md
-  - Sites avaliados: 
-    - INPE: inpe.md
-    - Hoteis.com: hoteis.md
-  - Storyboard e Avaliação: 
-    - Storyboard: storyboard.md
-    - Planejamento da Avaliação: planejamento-storyboard.md
-    - Avaliação do Storyboard: avaliacao-storyboard.md
+    - Apresentação 6: apresentacao6.md

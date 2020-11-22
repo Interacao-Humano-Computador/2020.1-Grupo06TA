@@ -41,3 +41,19 @@ E uma anti-persona:
 
 - Pedro, um jovem adulto não interessado em preços baixos por ter renda agradável
 e tem preferência por comprar passagens aéreas físicas em agências de turismo.
+
+## Versionamento
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Versão</th>
+    <th>Descrição</th>
+    <th>Autor</th>
+  </tr>
+  <tr>
+    <td>05/10</td>
+    <td>1.0</td>
+    <td>Criação do Perfil do Usuário.</td>
+    <td>Renato Britto</td>
+  </tr>
+</table>

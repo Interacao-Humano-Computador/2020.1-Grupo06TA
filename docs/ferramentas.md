@@ -51,6 +51,28 @@
 
 <h3>8.Diagrams</h3>
 <p>
-    <img align="left" width="100px" height="100px" src="https://scontent.fbsb8-1.fna.fbcdn.net/v/t31.0-8/p960x960/22256591_1680464958644700_5214290316315916391_o.png?_nc_cat=108&_nc_sid=85a577&_nc_ohc=fRgG-1uFO4oAX-ZMoFh&_nc_ht=scontent.fbsb8-1.fna&oh=f51173d4f3da22bdb1ca9899a0cda06e&oe=5F9E7518"/>
+    <img align="left" width="100px" height="100px" src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png"/>
     É uma aplicação para desenvolvimento de diagramas disponível para uso web e para uso como aplicativo. Essa ferramenta será usada para desenvolver os diagramas necessários.
 </p>
+
+## Versionamento
+<table>
+  <tr>
+    <th>Data</th>
+    <th>Versão</th>
+    <th>Descrição</th>
+    <th>Autor</th>
+  </tr>
+  <tr>
+    <td>20/09</td>
+    <td>1.0</td>
+    <td>Criação do documento.</td>
+    <td>Maicon Mares</td>
+  </tr>
+  <tr>
+    <td>21/09</td>
+    <td>1.1</td>
+    <td>Adição da ferramenta Diagrams.</td>
+    <td>João Pedro</td>
+  </tr>
+</table>

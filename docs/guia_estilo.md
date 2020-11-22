@@ -44,8 +44,8 @@ Ou aqui:
 Quanto às fontes geralmente usa-se #FFFFFF (branco puro) ou #378787 ![image11](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/guia_estilo/image12.png?raw=true)
 ### Animações 
 As únicas animações utilizadas na plataforma são simples e aplicam função slide horizontal. Um exemplo seria esta:
-![image12](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/guia_estilo/image1.png?raw=true?raw=true)
-![image13](../images/guia_estilo/image2.png?raw=true)
+![image12](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/guia_estilo/image1.png?raw=true)
+![image13](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/guia_estilo/image2.png?raw=true)
 O painel da esquerda desliza e muda para o painel na direita.
 ## Elementos de interação 
 ### Estilos de interação 

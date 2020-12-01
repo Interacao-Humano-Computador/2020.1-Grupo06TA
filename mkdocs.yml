@@ -38,7 +38,8 @@ nav:
         - Storyboard: avaliacao-storyboard.md
         - Análise de Tarefas: analise-tarefas-ex-1.md
     - Nível 2:
-      - Planejamento da avaliação: planejamento-prototipo-papel.md
+      - Protótipo de Papel:
+        - Planejamento da Avaliação e Relato dos Resultados: planejamento-prototipo-papel.md
   - Análise de Tarefas e Avaliação: 
     - Análise de Tarefas: analise-tarefas.md
     - Planejamento da avaliação: planejamento-analise-de-tarefas.md

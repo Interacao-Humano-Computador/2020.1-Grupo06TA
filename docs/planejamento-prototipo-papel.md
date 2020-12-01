@@ -16,7 +16,19 @@ O perfil dos participantes a serem escolhidos serão próximos aos perfis defini
 
 ### 1.1. Protótipo:
 
-![Prototipo de papel](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/docs/prototipo-papel.png)
+![Prototipo de papel](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/primeira_tela.png?raw=true)
+<strong>Figura 1: Tela busca de passagens</strong>
+<br>
+<br>
+
+
+![Prototipo de papel](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/segunda_tela.png?raw=true)
+<strong>Figura 2: Tela escolha da passagem</strong>
+<br>
+<br>
+
+![Prototipo de papel](https://github.com/Interacao-Humano-Computador/2020.1-Zupper/blob/develop/images/terceira_tela.png?raw=true)
+<strong>Figura 3: Tela dados pessoais</strong>
 
 ## 2. Coleta de dados:
 
@@ -60,3 +72,4 @@ Dado o pequeno escopo, a pesquisa foi desenvolvida com 5 participantes, mas que 
 |------|--------|-------|-----------|
 | 11/11/2020 | 1.0 | João Pedro Silva de Carvalho | Planejamento da avaliação do protótipo de papel |
 | 18/11/2020 | 2.0 | João Pedro Silva de Carvalho | Relato dos resultados |
+| 01/12/2020 | 3.0 | Maicon Mares | Adição telas separadas |
